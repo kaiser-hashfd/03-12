@@ -1,0 +1,1 @@
+Texto sobre diferenças entre Array e Lista
