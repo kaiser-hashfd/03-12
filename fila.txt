@@ -1,1 +1,3 @@
-Texto sobre Fila
+No Git Bash, a funcionalidade de "fila" refere-se ao histórico de comandos do Bash, que é um recurso padrão do shell Unix-like que o Git Bash emula no Windows. 
+Como funciona o histórico de comandos (fila)
+

@@ -1,1 +1,1 @@
-Texto sobre Pilha
+No contexto do Git Bash, o termo "pilha" geralmente se refere a duas funcionalidades distintas, ambas baseadas na estrutura de dados tipo Last-In, First-Out (LIFO): a pilha de diretórios (directory stack) e o armazenamento temporário de mudanças (git stash). 

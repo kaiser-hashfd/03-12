@@ -1,1 +1,1 @@
-Texto sobre diferenças entre Array e Lista
+A principal diferença é que arrays possuem tamanho fixo e acesso rápido, enquanto listas são dinâmicas e mais flexíveis para adicionar ou remover elementos
